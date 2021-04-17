@@ -3,7 +3,7 @@
   <entry>
     <title>spring</title>
     <url>/blog/2021/04/17/spring/</url>
-    <content><![CDATA[<p>1</p>
+    <content><![CDATA[<p>Spring 学习笔记</p>
 <span id="more"></span>
 
 
@@ -300,28 +300,22 @@
   <entry>
     <title>mybatis</title>
     <url>/blog/2021/04/17/mybatis/</url>
-    <content><![CDATA[<p>环境：</p>
-<ul>
-<li><p>JDK1.8</p>
-</li>
-<li><p>Mysql 5.7</p>
-</li>
-<li><p>maven 3.6.1</p>
-</li>
-<li><p>IDEA</p>
+    <content><![CDATA[<p>MyBatis 学习笔记</p>
 <span id="more"></span>
+<p>环境：</p>
+<ul>
+<li>JDK1.8</li>
+<li>Mysql 5.7</li>
+<li>maven 3.6.1</li>
+<li>IDEA</li>
+</ul>
 <p>回顾：</p>
-</li>
-<li><p>JDBC</p>
-</li>
-<li><p>Mysql</p>
-</li>
-<li><p>Java基础</p>
-</li>
-<li><p>Maven</p>
-</li>
-<li><p>Junit</p>
-</li>
+<ul>
+<li>JDBC</li>
+<li>Mysql</li>
+<li>Java基础</li>
+<li>Maven</li>
+<li>Junit</li>
 </ul>
 <p>SSM框架：配置文件的。  最好的方式：看官网文档；</p>
 <h2 id="1、简介"><a href="#1、简介" class="headerlink" title="1、简介"></a>1、简介</h2><h3 id="1-1、什么是Mybatis"><a href="#1-1、什么是Mybatis" class="headerlink" title="1.1、什么是Mybatis"></a>1.1、什么是Mybatis</h3><p><img src="Mybatis%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0.assets/1569633932712.png" alt="1569633932712"></p>
